@@ -1,1 +1,1 @@
-Analytics assignment to determine which of 14 factors were most related to the net promoter score of users of a tech product. Uses the glmnet library in r.
+Analytics assignment to determine which of 14 factors were most related to the net promoter score of users of a tech product. Uses the glmnet library in r. Cannot show results, but insights from this analysis were used to steer multiple experiments and design changes to a website.
